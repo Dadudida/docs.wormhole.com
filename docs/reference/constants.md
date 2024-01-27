@@ -1099,25 +1099,25 @@ The following tables document the deployed contract addresses for contracts on e
 <tr>
       <td>sepolia</td>
       <td><code>-</code></td>
-      <td><code>-</code></td>
+      <td><code>0x7B1bD7a6b4E61c2a123AC6BC2cbfC614437D0470</code></td>
       <td><code>-</code></td> 
     </tr>
 <tr>
       <td>arbitrum_sepolia</td>
       <td><code>-</code></td>
-      <td><code>-</code></td>
+      <td><code>0x7B1bD7a6b4E61c2a123AC6BC2cbfC614437D0470</code></td>
       <td><code>-</code></td> 
     </tr>
 <tr>
       <td>base_sepolia</td>
       <td><code>-</code></td>
-      <td><code>-</code></td>
+      <td><code>0x93BAD53DDfB6132b0aC8E37f6029163E63372cEE</code></td>
       <td><code>-</code></td> 
     </tr>
 <tr>
       <td>optimism_sepolia</td>
       <td><code>-</code></td>
-      <td><code>-</code></td>
+      <td><code>0x93BAD53DDfB6132b0aC8E37f6029163E63372cEE</code></td>
       <td><code>-</code></td> 
     </tr>
 <tr>
@@ -1459,7 +1459,7 @@ For more information see [https://docs.bnbchain.org/docs/learn/consensus](https:
 |Instant|200|
 If a value is passed that is _not_ in the set above it's assumed to mean finalized
 
-For more information see [https://wiki.polygon.technology/docs/pos/design/heimdall/checkpoint/](https://wiki.polygon.technology/docs/pos/design/heimdall/checkpoint/)
+For more information see [https://docs.polygon.technology/pos/architecture/heimdall/checkpoints/](https://docs.polygon.technology/pos/architecture/heimdall/checkpoints/)
 
 ### Avalanche
 |Level|Value|
